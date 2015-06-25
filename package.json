@@ -1,0 +1,24 @@
+{
+  "name": "sequelize-func",
+  "version": "0.0.1",
+  "main": "./sequelize-func.js",
+  "dependencies": {
+    "sequelize": "*",
+    "moment": "*",
+    "string_decoder": "*"
+  },
+  "description": "Some useful functions for npm-sequelize",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diatche/sequelize-func.git"
+  },
+  "author": "Pavel Diatchenko diatche@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diatche/sequelize-func/issues"
+  },
+  "homepage": "https://github.com/diatche/sequelize-func"
+}
